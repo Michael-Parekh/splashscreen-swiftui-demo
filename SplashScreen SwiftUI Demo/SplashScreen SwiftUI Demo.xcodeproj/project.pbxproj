@@ -11,6 +11,7 @@
 		73FB158D2B5E2D2B009E1D00 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73FB158C2B5E2D2B009E1D00 /* ContentView.swift */; };
 		73FB158F2B5E2D2C009E1D00 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73FB158E2B5E2D2C009E1D00 /* Assets.xcassets */; };
 		73FB15922B5E2D2C009E1D00 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 73FB15912B5E2D2C009E1D00 /* Preview Assets.xcassets */; };
+		73FB15992B5E2E45009E1D00 /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73FB15982B5E2E45009E1D00 /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		73FB158C2B5E2D2B009E1D00 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		73FB158E2B5E2D2C009E1D00 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		73FB15912B5E2D2C009E1D00 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		73FB15982B5E2E45009E1D00 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				73FB158A2B5E2D2B009E1D00 /* SplashScreen_SwiftUI_DemoApp.swift */,
 				73FB158C2B5E2D2B009E1D00 /* ContentView.swift */,
+				73FB15982B5E2E45009E1D00 /* SplashScreenView.swift */,
 				73FB158E2B5E2D2C009E1D00 /* Assets.xcassets */,
 				73FB15902B5E2D2C009E1D00 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				73FB158D2B5E2D2B009E1D00 /* ContentView.swift in Sources */,
 				73FB158B2B5E2D2B009E1D00 /* SplashScreen_SwiftUI_DemoApp.swift in Sources */,
+				73FB15992B5E2E45009E1D00 /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

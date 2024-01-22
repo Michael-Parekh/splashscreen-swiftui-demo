@@ -11,7 +11,8 @@ import SwiftUI
 struct SplashScreen_SwiftUI_DemoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // Since we want the SplashScreen to be the first thing that the user sees, we can place SplashScreenView here instead of ContentView.
+            SplashScreenView()
         }
     }
 }
